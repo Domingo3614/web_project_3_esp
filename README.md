@@ -1,19 +1,15 @@
-# Project 3: De patria a patria
-### Descripción general    
-* Introducción  
-* Figma  
-* Imágenes  
-  
-**Introducción**    
-  
-Este es un proyecto que muestra las ciudades natales de algunos de los empleados de Practicum. Lo hemos diseñado de tal modo que todos los elementos se muestren correctamente en los tamaños de pantalla más habituales. Recomendamos invertir más tiempo en completar este proyecto, ya que es más difícil que los anteriores.     
-  
-**Figma**  
-  
-* [Enlace al proyecto en Figma](https://www.figma.com/file/ZW8wxTYTZH2czTTfDMVHWq/WEB%2C-Sprint-3-%3A-De-patria-a-patria-%7C-desktop-%2B-mobile?node-id=0%3A1)  
-  
-**Imágenes**  
-  
-A la hora de trabajar, debes optar por exportar las imágenes directamente desde Figma; te recomendamos hacerlo para practicar más. No olvides optimizarlas [aquí](https://tinypng.com/), para que tu proyecto cargue más rápido.   
-  
-¡Mucha suerte y que te lo pases bien! 
+# 1. __Nombre del Proyexto__
+web_project_3_esp
+
+# 2. __Descripcion del proyecto y su funcionalidad__
+Consiste en la creacion de una interfaz para diferentes dispositivos con la intencion de poner en practica los conocimientos adquiridos durante el Sprint 3. 
+
+# 2. __La descripcion de las tecnicas y tecnologias utilizadas__
+En este proyecto se ha puesto en practicas diversas tecnicas aprendidas en el Sprint 3. Se pueden destacar algunas como: 
+
+        *La utilizacion de <iframe> para contenidos de video.
+        * @keyframe para las animaciones.
+        *Diversas animaicones como es la rotacion de figuras.
+        *Desarrollo de una interfaz para diferentes dispositivos
+
+

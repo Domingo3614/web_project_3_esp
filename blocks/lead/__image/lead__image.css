@@ -1,0 +1,44 @@
+@media (min-width:1000px) and (max-width:4000px) {
+  .lead__image {
+    margin-top: 6.5%;
+    width: 76.875vw;
+    height: 48.05vw;
+    margin-left: 11.56vw;
+    margin-right: 11.56vw;
+    background-color: #000000;
+    background-image: url(../../../images/kalegin-michail-179870-unsplash.png);
+    background-size: cover;
+    z-index: 1;
+    mix-blend-mode:darken;
+  }
+}
+  
+@media (min-width:700px) and (max-width:1000px) {
+  .lead__image {
+    margin-top: 6.5%;
+    width: 100vw;
+    height: 48.05vw;
+    margin-left: 0%;
+    margin-right: 0%;
+    background-color: #000000;
+    background-image: url(../../../images/kalegin-michail-179870-unsplash.png);
+    background-size: cover;
+    z-index: 1;
+    mix-blend-mode:darken;
+  }
+}
+
+@media (min-width:320px) and (max-width:700px) {
+  .lead__image {
+    margin-top: 12.5%;
+    width: 100vw;
+    height: 62.5vw;
+    margin-left: 0%;
+    margin-right: 0%;
+    background-color: #000000;
+    background-image: url(../../../images/kalegin-michail-179870-unsplash.png);
+    background-size: cover;
+    z-index: 1;
+    mix-blend-mode:darken;
+  } 
+}

@@ -1,0 +1,44 @@
+@media (min-width:1000px) and (max-width:4000px) {
+  .intro__text3 {
+    line-height: 1.63;
+    width: 70.80%;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    text-align:start;
+    color: #FFFFFF;
+    margin-top: 4.13%;
+    margin-right: 29.2%;
+    margin-bottom: 0%;
+  }
+}
+  
+@media (min-width:700px) and (max-width:1000px) {
+  .intro__text3 {
+    line-height: 1.63;
+    width: 100%;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    text-align:start;
+    color: #FFFFFF;
+    margin-top: 5.83%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+  }
+}
+  
+@media (min-width:320px) and (max-width:700px) {
+  .intro__text3 {
+    line-height: 1.68;
+    width: 100%;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    text-align:start;
+    color: #FFFFFF;
+    margin-top: 1.11%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+  }
+}
