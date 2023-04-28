@@ -1,11 +1,6 @@
 @import url(../blocks/page/page.css);
 @import url(../blocks/header/header.css);
-@import url(../blocks/logo/__logos1/logo__logos1.css);
-@import url(../blocks/logo/__logo1/logo__logo1.css);
-@import url(../blocks/logo/__logos2/logo__logos2.css);
-@import url(../blocks/logo/__logo2/logo__logo2.css);
-@import url(../blocks/logo/__logo3/logo__logo3.css);
-@import url(../blocks/logo/__logos3/logo__logos3.css);
+@import url(../blocks/logo/__image/logo__image.css);
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__title/lead__title.css);
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
