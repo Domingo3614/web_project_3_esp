@@ -1,0 +1,29 @@
+
+@media (min-width:1000px) and (max-width:4000px) {
+
+  .Groupp {
+    width: 51.25vw;
+    display:flex;
+    flex-direction:column;
+    justify-content: start;
+  }
+}
+
+@media (min-width:700px) and (max-width:1000px) {
+
+   .Groupp {
+      width: 100%;
+      display:flex;
+      flex-direction:column;
+      justify-content: start;
+    }
+}
+
+@media (min-width:320px) and (max-width:700px) {
+    .Groupp {
+      width: 90%;
+      display:flex;
+      flex-direction:column;
+      justify-content: flex-start;
+    }
+}

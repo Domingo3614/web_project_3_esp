@@ -9,7 +9,7 @@
     background-image: url(../../../images/kalegin-michail-179870-unsplash.png);
     background-size: cover;
     z-index: 1;
-    mix-blend-mode:darken;
+    filter: grayscale(100%);
   }
 }
   
@@ -24,7 +24,7 @@
     background-image: url(../../../images/kalegin-michail-179870-unsplash.png);
     background-size: cover;
     z-index: 1;
-    mix-blend-mode:darken;
+    filter: grayscale(100%);
   }
 }
 
@@ -39,6 +39,6 @@
     background-image: url(../../../images/kalegin-michail-179870-unsplash.png);
     background-size: cover;
     z-index: 1;
-    mix-blend-mode:darken;
+    filter: grayscale(100%);
   } 
 }

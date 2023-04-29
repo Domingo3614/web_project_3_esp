@@ -9,12 +9,12 @@
     flex-direction:column;
     justify-content: center;
     align-items: center;
-    background-image: url(../images/__background.png);
+    background-image: url(../../images/__background.png);
     background-size: cover;
   }
   
   .cover:hover {
-    background-image: url(../images/__background.png);
+    background-image: url(../../images/__background.png);
     background-size: cover;
     opacity: 0.3;
   }
@@ -30,13 +30,13 @@
     flex-direction:column;
     justify-content: center;
     align-items: center;
-    background-image: url(../images/__background.png);
+    background-image: url(../../images/__background.png);
     background-size: cover;
   }
   
   
   .cover:hover {
-    background-image: url(../images/__background.png);
+    background-image: url(../../images/__background.png);
     background-size: cover;
     opacity: 0.3;
   }
@@ -52,13 +52,13 @@
     flex-direction:column;
     justify-content: center;
     align-items: center;
-    background-image: url(../images/__background.png);
+    background-image: url(../../images/__background.png);
     background-size: cover;
   }
   
   
   .cover:hover {
-    background-image: url(../images/__background.png);
+    background-image: url(../../images/__background.png);
     background-size: cover;
     opacity: 0.3;
   }
