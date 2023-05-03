@@ -1,5 +1,5 @@
 @media (min-width:1000px) and (max-width:4000px) {
-  .place__paragraphh {
+  .place__extra-paragraph {
     line-height: 1.63;
     font-size: 18px;
     font-weight: 400;
@@ -8,16 +8,16 @@
     margin-left: 0%;
     margin-right: 0%;
     margin-top: 0%;
-    margin-bottom: 0px;
+    margin-bottom: 19%;
     color: #FFFFFF;
     padding-bottom: 0%;
-    grid-area: paragraph2;
+    grid-area: paragraph3;
     height: fit-content;
   }
 }
   
 @media (min-width:700px) and (max-width:1000px) {
-  .place__paragraphh {
+  .place__extra-paragraph  {
     line-height: 1.63;
     font-size: 16px;
     font-weight: 400;
@@ -28,14 +28,14 @@
     margin-top: 0%;
     margin-bottom: 0px;
     color: #FFFFFF;
-    padding-bottom: 0%;
-    grid-area: paragraph2;
+    padding-bottom:60%;
+    grid-area: paragraph3;
     height: fit-content;
   }
 }
   
 @media (min-width:320px) and (max-width:700px) {
-  .place__paragraphh {
+  .place__extra-paragraph  {
     width: 90%;
     line-height: 1.63;
     font-size: 16px;
@@ -48,7 +48,7 @@
     margin-bottom: 0px;
     color: #FFFFFF;
     padding-bottom: 0%;
-    grid-area: paragraph2;
+    grid-area: paragraph3;
     height: fit-content;
   }
 }
